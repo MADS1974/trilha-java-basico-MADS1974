@@ -1,7 +1,5 @@
 # Trilha Java Básico
 
-www.dio.me
-
 ## Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
@@ -34,7 +32,7 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 
 
-### Expert
+### Expert www.dio.me
 
 * [Gleyson Sampaio](https://github.com/glysns)
 
